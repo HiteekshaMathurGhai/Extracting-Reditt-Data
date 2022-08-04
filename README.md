@@ -1,5 +1,5 @@
-# Extracting-Reditt-Data
+# Extracting-Reddit-Data
 
-Web scarping- Using reditt to get comments etc. on a game- positive & negative.
+Web scarping- Using Reddit to get comments etc. on a game- positive & negative.
 
 Purpose- Cost benefit analysis of early access software for gaming 
